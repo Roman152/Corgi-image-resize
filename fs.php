@@ -16,7 +16,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
-<title> Corgi jpegSizer - сжатие картинок jpeg на хостинге</title>
+<title>Corgi jpegSizer - сжатие картинок jpeg на хостинге</title>
 <style>body {text-align: center} table {margin: auto} td {text-align: center; border: 1px solid #ccc; padding: 12px 20px; background: #eee; width: 50%}
 #custom-handle, #custom-handle1 {width: 2em;height: 1.6em;top: 50%;margin-top: -.8em;text-align: center; line-height: 1.6em; font-size: 0.8em; cursor: pointer}
 .phptime {border: 1px solid #ccc; display: inline-block; position: fixed; bottom: 0px; right: 0px; padding: 10px 20px; background: #eee}
